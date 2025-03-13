@@ -107,4 +107,6 @@ if __name__ == '__main__':
     print('\nUpdated Report:')  # debug
     Income.report()
 
+    print("Peter")
+
 
